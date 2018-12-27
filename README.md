@@ -7,3 +7,5 @@ oranbusiness@gmail.com
 20181020
 github.com/wisehackermonkey
 ```
+## Play the Game Online! 
+[Click here to play the game online](https://wisehackermonkey.github.io/20181020_sykoo_animation_tutorial/)
