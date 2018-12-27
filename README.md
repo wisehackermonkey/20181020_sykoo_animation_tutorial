@@ -9,3 +9,5 @@ github.com/wisehackermonkey
 ```
 ## Play the Game Online! 
 [Click here to play the game online](https://wisehackermonkey.github.io/20181020_sykoo_animation_tutorial/)
+#### Note:
+To move your character arround use the WASD or arrows keys.
