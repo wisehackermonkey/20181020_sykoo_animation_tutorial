@@ -1,4 +1,4 @@
-# Unity Walking Animation Demo 
+# `Unity Walking Animation Demo`
 #### 3D controllable walking animation using unity3d.
 ```
 Created using a "sykoo" animation tutorial on youtube.
